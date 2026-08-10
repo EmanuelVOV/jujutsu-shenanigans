@@ -1,2 +1,2 @@
-# jujutsu-shenanigans
-meu site de jujutsu shenanigans
+# jujutsu-kaisen
+meu site de jujutsu kaisen
