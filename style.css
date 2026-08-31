@@ -1,8 +1,27 @@
 body {
-background-color: rgb(92, 7, 28);
+    background-color: rgb(92, 7, 28);
+    font-family: Arial, sans-serif;
+    text-align: center;
 }
 
 h1 {
- color: rgba(66, 11, 9, 0.363);
- font-size: 100px;
+    color: #ffffff;
+    font-size: 80px;
+    font-family: 'Impact', sans-serif;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #ffcc00;
+    font-size: 40px;
+    font-family: 'Impact', sans-serif;
+    margin-top: 40px;
+}
+
+iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+    border-radius: 15px;
+    margin: 10px;
 }
