@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
 body {
     background-color: rgb(92, 7, 28);
     font-family: Arial, sans-serif;
@@ -6,15 +8,17 @@ body {
 
 h1 {
     color: #ffffff;
-    font-size: 80px;
-    font-family: 'Impact', sans-serif;
+    font-size: 90px;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 3px;
     margin-top: 20px;
 }
 
 h2 {
     color: #ffcc00;
-    font-size: 40px;
-    font-family: 'Impact', sans-serif;
+    font-size: 45px;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 2px;
     margin-top: 40px;
 }
 
