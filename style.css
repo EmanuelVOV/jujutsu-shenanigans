@@ -1,23 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
 body {
-    background: linear-gradient(180deg, rgb(92, 7, 28) 0%, rgb(18, 1, 6) 100%);
+    background: linear-gradient(180deg, #3a0ca3 0%, #0f051d 100%);
     background-attachment: fixed;
     font-family: Arial, sans-serif;
     text-align: center;
 }
 
 h1 {
-    color: #ffffff;
+    color: #00ff88;
     font-size: 90px;
     font-family: 'Bangers', cursive;
     letter-spacing: 3px;
     margin-top: 20px;
-    text-shadow: 0 0 15px #ff0055, 0 0 25px #ff0055;
+    text-shadow: 0 0 15px #00ff88, 0 0 25px #00ff88;
 }
 
 h2 {
-    color: #ffcc00;
+    color: #a6ff00;
     font-size: 45px;
     font-family: 'Bangers', cursive;
     letter-spacing: 2px;
@@ -35,7 +35,7 @@ iframe {
 footer {
     margin-top: 60px;
     padding: 20px;
-    color: #ffffff;
+    color: #00ff88;
     font-size: 18px;
-    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-top: 1px solid rgba(0, 255, 136, 0.2);
 }
